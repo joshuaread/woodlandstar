@@ -30,7 +30,7 @@ get_header(); ?>
 		
 	</div><!--/container-->
 
-</div><!--/container-wrap TESTING-->
+</div><!--/container-wrap TESTING THIS-->
 
 <?php get_footer(); ?>
 
